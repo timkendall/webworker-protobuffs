@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "strict": true,
+    "target": "es2017",
+    "lib": ["es7", "dom", "esnext.asynciterable"],
+    "noUnusedLocals": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "declaration": true,
+    "strictPropertyInitialization": false,
+    "sourceMap": true,
+    "inlineSources": true,
+    "removeComments": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+  }
+}
